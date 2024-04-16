@@ -16,7 +16,11 @@
 
 </table>
 </small>
-<img src="https://img.shields.io/badge/Nix-222.svg?logo=nixos" alt="Nix">&nbsp;<img src="https://img.shields.io/badge/Go-222.svg?logo=go" alt="Go">&nbsp;<img src="https://img.shields.io/badge/Docker-222.svg?logo=docker" alt="Docker">&nbsp;
+<div>
+<img src="https://img.shields.io/badge/Nix-222.svg?logo=nixos" alt="Nix">&nbsp;
+<img src="https://img.shields.io/badge/Go-222.svg?logo=go" alt="Go">&nbsp;
+<img src="https://img.shields.io/badge/Docker-222.svg?logo=docker" alt="Docker">&nbsp;
+</div>
 
 
 ### Install Nix
